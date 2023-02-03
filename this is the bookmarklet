@@ -1,0 +1,3 @@
+copy everything on line 3 and paste it into your bookmarks 
+----------------------------------------------------------
+javascript:(function()%7Balert("skipping")%7D)()
